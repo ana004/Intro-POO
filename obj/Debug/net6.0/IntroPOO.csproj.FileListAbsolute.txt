@@ -1,0 +1,15 @@
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\bin\Debug\net6.0\IntroPOO.exe
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\bin\Debug\net6.0\IntroPOO.deps.json
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\bin\Debug\net6.0\IntroPOO.runtimeconfig.json
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\bin\Debug\net6.0\IntroPOO.dll
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\bin\Debug\net6.0\IntroPOO.pdb
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.dll
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\refint\IntroPOO.dll
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.pdb
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\IntroPOO.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Documentos\LG3\Projetos\CalculadoraIMC\IntroPOO\obj\Debug\net6.0\ref\IntroPOO.dll
